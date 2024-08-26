@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 I'm an entrepreneur and aspiring full-stack developer to build tech solutions that solve real-world problems.
-🚀 Experienced in leading projects from inception to launch, both from a business and tech side.
-🛠️ Proficient in JavaScript, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL, GraphQL, REST APIs, AWS, GCP, Docker, Git, CI/CD pipelines, and more. 
+👋 I'm an entrepreneur and aspiring full-stack developer to build tech solutions that solve real-world problems.\
+🚀 Experienced in leading projects from inception to launch, both from a business and tech side.\
+🛠️ Proficient in JavaScript, TypeScript, React, Angular, Node.js, Express, Koa, MongoDB, PostgreSQL, GraphQL, REST APIs, Git, and more. 
 
 🤝 Let's create something amazing together!
 
